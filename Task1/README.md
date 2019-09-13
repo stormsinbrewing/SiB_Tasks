@@ -7,8 +7,6 @@ Create a pull request to our central repository.
 
 [Learn Markdown for GitHub .md files](https://github.com/stormsinbrewing/Markdown-for-Documentation)
 
-[Basic Portfolio Tutorial]()
-
-[Basic Portfolio Output]()
+[Basic Portfolio](Task1/NishkarshRaj)
 
 
