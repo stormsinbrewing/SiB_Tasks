@@ -16,6 +16,6 @@ Create a pull request to our central repository.
 
 [Learn Markdown for GitHub .md files](https://github.com/stormsinbrewing/Markdown-for-Documentation)
 
-[Basic Portfolio](https://github.com/stormsinbrewing/SiB_Tasks/tree/master/Task1/NishkarshRaj/README.md)
+[Basic Portfolio](NishkarshRaj/)
 
 
