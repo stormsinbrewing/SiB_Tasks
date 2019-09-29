@@ -34,7 +34,7 @@ I am pursuing B.Tech in Computer Science with specialization in DevOps.
 
 [HackerRank](https://www.hackerrank.com/kshitizsaini_rtk)
 
-[LinkedIN](https://www.linkedin.com/in/kshitiz-saini-6095aa168)
+[LinkedIN](https://www.linkedin.com/in/kshitizsaini113)
 
 [Twitter](https://twitter.com/kshitizsaini113)
 
